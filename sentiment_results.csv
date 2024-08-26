@@ -1,0 +1,51 @@
+id,review,sentiment
+1,"Great product, I really love it!",positive
+2,"The quality was okay, not the best but decent for the price.",positive
+3,Terrible experience. The product broke after two days.,negative
+4,Absolutely fantastic! Exceeded my expectations.,positive
+5,"The product is good, but shipping was delayed.",positive
+6,Not worth the price. Very disappointed.,negative
+7,"Amazing quality, would buy again.",positive
+8,It's just okay. Nothing special.,positive
+9,Poor quality. Not what I expected at all.,negative
+10,Love it! Will recommend to my friends.,positive
+11,Decent product for the cost. Satisfied overall.,negative
+12,Worst purchase ever. Totally dissatisfied.,positive
+13,"The product works as described, but nothing extraordinary.",neutral
+14,Fantastic! Great value for money.,positive
+15,"Not great, but not terrible either.",negative
+16,Horrible experience. The product is very cheap.,negative
+17,Good quality for the price. I’m happy with it.,positive
+18,Exceeded my expectations in every way!,neutral
+19,"Average product, you get what you pay for.",negative
+20,"Terrible, would not recommend it to anyone.",negative
+21,Excellent product. Will buy again.,positive
+22,Just okay. Didn’t wow me.,positive
+23,Disappointed with the quality. Not as advertised.,negative
+24,"Product is fine, but customer service was awful.",positive
+25,Very happy with my purchase. Great quality!,positive
+26,"It's good, but I've seen better.",positive
+27,Quality is not as good as described.,positive
+28,Loved the product! High quality and fast shipping.,positive
+29,"It's alright, but there are better options out there.",positive
+30,Would not buy again. Very poor quality.,positive
+31,Superb product! Very happy with it.,positive
+32,"Okay product, but not what I was looking for.",negative
+33,"Not great, but it gets the job done.",negative
+34,Amazing! Far better than I expected.,positive
+35,Disappointing quality. It broke after a week.,negative
+36,Very good product. Met my expectations.,positive
+37,Horrible quality. Waste of money.,negative
+38,"Satisfied with my purchase, but there’s room for improvement.",negative
+39,Fantastic quality for the price!,positive
+40,It’s okay. Nothing to write home about.,positive
+41,"Great product, but the color was different than pictured.",positive
+42,Extremely disappointed. Do not buy!,negative
+43,"Love the product, but it’s a bit expensive.",positive
+44,"Average product, but fast delivery.",negative
+45,Top-notch quality! Worth every penny.,positive
+46,"It works, but feels a bit flimsy.",negative
+47,"Cheaply made, wouldn't recommend.",positive
+48,Excellent! Surpassed all my expectations.,positive
+49,"Not the best, but it will do.",negative
+50,"Terrible product, do not waste your money.",negative
