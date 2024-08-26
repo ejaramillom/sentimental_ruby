@@ -52,4 +52,4 @@ module SentimentalCSV
 	end
 end
 
-SentimentalCSV.file_analyzer('sentiment_results.csv', 'sentiment_analysis.csv')
+# SentimentalCSV.file_analyzer('sentiment_results.csv', 'sentiment_analysis.csv')

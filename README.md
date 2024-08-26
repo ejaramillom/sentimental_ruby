@@ -44,4 +44,21 @@ git clone https://github.com/ejaramillom/sentimental_ruby.git
 cd sentimental_ruby
 ```
 
+### Install dependencies:
 
+Run Bundler to install the necessary gems:
+
+```
+bundle install
+```
+
+### usage
+
+You can invoke the module as follows. Inside the route of the sentimental_ruby folder, run the ruby terminal
+and invoke the module with the names of the file you want to analyse, and the output file you want to read:
+
+```
+irb =>
+=> require_relative 'sentimental_csv_build'
+=> SentimentalCSV.file_analyzer('sentiment_results.csv', 'sentiment_analysis.csv')
+```
